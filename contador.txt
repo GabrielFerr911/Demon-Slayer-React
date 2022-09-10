@@ -1,0 +1,28 @@
+    // <div className="App">
+
+    //   <h1>O valor do numero é: {number}</h1>
+
+    //   <button onClick={
+    //     function(){
+    //       setNumber(number + 1)
+    //     }
+    //   }>Somar</button>
+
+    //   <button onClick={
+    //     ()=>{
+    //       setNumber(number -1)
+    //     }
+    //   }>Subtrair</button>
+    // <button onClick={
+    //   ()=>{
+    //     setNumber(number * 2)
+    //   }
+    // }>Multiplicar</button>
+
+    // <button onClick={
+    //   ()=>{
+    //     setNumber(0)
+    //   }
+    // }>reset</button>
+
+    // </div>

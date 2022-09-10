@@ -1,0 +1,40 @@
+.card
+{
+    width: 200px;
+    height: 300px;
+    background-color: dimgray;
+    margin-left: 50px;
+    margin-top: 15px;
+    border-radius: 15px;
+    float: left;
+    margin-bottom: 15px;
+}
+.card img
+{
+    width: 150px;
+    height: 150px;
+    margin-top: 10px;
+    margin-bottom: -30px;
+    border-radius: 10px;
+}
+.card:hover
+{
+    transform: translateX(0px) scale(1.07);
+    box-shadow: 8px 8px 8px black;
+}
+h2
+{
+    padding-top: 10px;
+}
+p
+{
+    margin-top: -15px;
+}
+.compre:hover
+{
+    color: black;
+}
+.compre a:visited
+{
+    color:black;
+}
