@@ -16,7 +16,6 @@ export default function container() {
       <CharCard/>
       <CharCard/>
       <CharCard/>
-      <CharCard/>
     </div>
    </div>
   );
